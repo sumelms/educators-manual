@@ -7,7 +7,7 @@ The Educator's Manual contains several guides designed for those who are willing
 
 Visit: https://educators.sumelms.com
 
-# O Manual do Educator
+# O Manual do Educador
 
 O Manual do Educator contem uma série de guias desenhados para aqueles que desejam criar, gerenciar e melhorar seus cursos e aulas digitais.
 
