@@ -1,5 +1,5 @@
 - [English](#the-educators-manual)
-- [Português](#o-manual-do-educator)
+- [Português](#o-manual-do-educador)
 
 # The Educator's Manual
 
