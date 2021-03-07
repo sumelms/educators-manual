@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 * [Como contribuír](como-contribuir.md)
-* [Licença de uso](licenca-de-uso.md)
+* [Licença de uso](licenca.md)
 
 ## Educação online
 
