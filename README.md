@@ -1,4 +1,4 @@
-# Sobre o manual
+# Introdução
 
 A iniciativa de elaborar este manual é garantir aos educadores e alunos uma compreensão, ampla e detalhada, sobre o que é a Sumé e o Sumé LMS e como eles podem auxiliar no desenvolvimento e na implementação das aulas virtuais. As duas iniciativas surgiram durante a pandemia da Covid-19, motivadas pela visível dificuldade encontrada por educadores em adaptar as aulas presenciais para as aulas virtuais. 
 
@@ -11,4 +11,8 @@ Tentamos reunir no manual o maior número de orientações técnicas e práticas
 Também é importante que fique claro que este manual não é um material definitivo e fechado. A nossa intenção é que ele seja uma obra em construção, que seja desenvolvido de maneira colaborativa tanto pelos educadores que tiverem como contribuir com assunto quanto pelas demais pessoas que se interessam pela qualidade da educação. Toda nova informação e sugestão são bem-vindas!
 
 A Sumé é um projeto inovador e o sucesso dela vai depender, em grande parte, de quem realmente se comprometer, tiver entusiasmo e usar sua plataforma para realizar as suas atividades escolares. Então, aproveite muito o conteúdo deste manual e boa aula!
+
+### A Sumé
+
+A Sumé é uma iniciativa aberta e colaborativa que tem como principal objetivo contribuir para o desenvolvimento e modernização da educação por meio do uso de tecnologia.
 

@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Sobre o manual](README.md)
-* [A Sumé](a-sume.md)
+* [Introdução](README.md)
+* [Como contribuír](como-contribuir.md)
+* [Licença de uso](licenca-de-uso.md)
 
 ## Educação online
 
