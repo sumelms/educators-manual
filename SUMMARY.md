@@ -3,13 +3,15 @@
 * [Sobre o manual](README.md)
 * [A Sumé](a-sume.md)
 
-## Educação
+## Educação online
 
-* [Ambiente virtual](educacao/ambiente-virtual.md)
-* [Formatos de conteúdo](educacao/formatos-de-conteudo/README.md)
-  * [Tipos de pacotes](educacao/formatos-de-conteudo/tipos-de-pacotes.md)
-  * [Ferramentas](educacao/formatos-de-conteudo/ferramentas.md)
-* [Planejar é roteirizar](educacao/untitled.md)
+* [Ambiente educacional](educacao-online/ambiente-educacional/README.md)
+  * [Tipos de pacotes](educacao-online/ambiente-educacional/tipos-de-pacotes.md)
+  * [Sumé LMS](educacao-online/ambiente-educacional/sume-lms.md)
+* [Formatos de conteúdo](educacao-online/formatos-de-conteudo.md)
+* [Ferramentas](educacao-online/ferramentas.md)
 
-## Ferramentas
+## Produção de conteúdo
+
+* [Planejar é roteirizar](producao-de-conteudo/planejar-e-roteirizar.md)
 
