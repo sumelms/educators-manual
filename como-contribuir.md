@@ -39,6 +39,12 @@ O uso de recursos externos, como imagens, vídeos e áudio não é proibido, ent
 
 Em caso de imagens, é preferível que estas sejam sempre hospedadas dentro do próprio espaço deste manual.
 
+### Referências
+
+Para referenciar autores ou obras, utiliza-se a seguinte notação:
+
+_"A leitura do mundo precede a leitura da palavra, daí que a posterior leitura desta não possa prescindir da continuidade da leitura daquele."_  \(FREIRE, P. _A importância do ato de ler_. 23 ed. São Paulo: Autores Associados: Cortez, 1989. p. 11.\)
+
 ## Licenças compatíveis
 
 Todo conteúdo publicado neste manual deve ser compatível com a [licença do mesmo](licenca.md), sendo estas:
