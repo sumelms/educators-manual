@@ -4,6 +4,10 @@ Este manual foi desenvolvido de forma colaborativa, e está aberto a novas contr
 
 ## Protocolos e convenções
 
+### Código de conduta
+
+A Sumé é uma comunidade dedicada em prover uma experiência inclusiva e segura para todos. Por este motivo, adotamos um [código de conduta](https://sumelms.com/docs/conduct) que valoriza a força da nossa diversidade.
+
 ### Discussão e consenso
 
 Por se tratar de um trabalho colaborativo, haverá momentos em que partes entrarão em desacordo sobre determinado assunto ou sua estruturação.
