@@ -1,6 +1,6 @@
 # Como contribuír
 
-Este manual foi desenvolvido de forma colaborativa, e está aberto a novas contribuíções. Entretanto, para que seja possível manter a qualidade das publicações que aqui se encontram, criamos este breve guia inspirado nas diretrizes já bem fundamentadas e estabelecidadas pela [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia).
+Este manual foi desenvolvido de forma colaborativa, e está aberto a novas contribuições. Entretanto, para que seja possível manter a qualidade das publicações que aqui se encontram, criamos este breve guia inspirado nas diretrizes já bem fundamentadas e estabelecidas pela [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia).
 
 ## Protocolos e convenções
 
@@ -19,19 +19,19 @@ A Sumé é uma comunidade dedicada em prover uma experiência inclusiva e segura
 
 Por se tratar de um trabalho colaborativo, haverá momentos em que partes entrarão em desacordo sobre determinado assunto ou sua estruturação.
 
-Neste caso, os contribuídores devem agir sempre de forma respeitosa e trabalhar juntos, evitando qualquer comportamento visto como inaceitável, disruptivo, tendencioso ou desonesto. Visando assim, em comum acordo, encontrar a melhor solução.
+Neste caso, os contribuidores devem agir sempre de forma respeitosa e trabalhar juntos, evitando qualquer comportamento visto como inaceitável, disruptivo, tendencioso ou desonesto. Visando assim, em comum acordo, encontrar a melhor solução.
 
 Ainda assim, caso não seja possível um acordo entre as partes, entrará em ação a figura de moderação.
 
 ### Moderação
 
-Aos moderadores cabe a aprovação, remoção, edição ou alteração de qualquer material contido neste manual sem aviso prévio ao contribuídor, tal como intervenções em discussões para mediação de uma solução para possíveis conflitos e desavenças.
+Aos moderadores cabe a aprovação, remoção, edição ou alteração de qualquer material contido neste manual sem aviso prévio ao contribuidor, tal como intervenções em discussões para mediação de uma solução para possíveis conflitos e desavenças.
 
-Entenda, entretanto, que a figura do moderador não é absoluta e suas atitudes podem ser revistas e levadas a um conselho composto por outros moderadores que poderão rever a atitude de outro moderador.
+Entretanto a figura do moderador não é absoluta, suas atitudes podem ser revistas e levadas a um conselho,  composto por outros moderadores, que poderá rever esta atitude.
 
 ## Recursos externos
 
-O uso de recursos externos, como imagens, vídeos e áudio não é proíbido de qualquer forma, entretanto desaconselhado. Recomenda-se o uso de recursos externos apenas para as seguintes situações:
+O uso de recursos externos, como imagens, vídeos e áudio não é proibido, entretanto desaconselhado. Recomenda-se o uso de recursos externos apenas para as seguintes situações:
 
 * Vídeos \(YouTube\)
 * Áudio \(SoundCloud\)
@@ -49,7 +49,7 @@ Todo conteúdo publicado neste manual deve ser compatível com a [licença do me
 
 `Torna-se excessão a necessidade de licença compatíveis recursos externos, pois entende-se que estes não fazem parte do manual.`
 
-## Contribuíndo
+## Contribuindo
 
 ### GitHub
 
