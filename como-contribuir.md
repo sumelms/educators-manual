@@ -19,7 +19,7 @@ A Sumé é uma comunidade dedicada em prover uma experiência inclusiva e segura
 
 Por se tratar de um trabalho colaborativo, haverá momentos em que partes entrarão em desacordo sobre determinado assunto ou sua estruturação.
 
-Neste caso, os contribuidores devem agir sempre de forma respeitosa e trabalhar juntos, evitando qualquer comportamento visto como inaceitável, disruptivo, tendencioso ou desonesto. Visando assim, em comum acordo, encontrar a melhor solução.
+Neste caso, os contribuidores devem agir sempre de forma respeitosa e trabalhar juntos, evitando qualquer comportamento visto como inaceitável, ofensivo, tendencioso ou desonesto. Visando assim, em comum acordo, encontrar a melhor solução.
 
 Ainda assim, caso não seja possível um acordo entre as partes, entrará em ação a figura de moderação.
 
@@ -27,7 +27,7 @@ Ainda assim, caso não seja possível um acordo entre as partes, entrará em aç
 
 Aos moderadores cabe a aprovação, remoção, edição ou alteração de qualquer material contido neste manual sem aviso prévio ao contribuidor, tal como intervenções em discussões para mediação de uma solução para possíveis conflitos e desavenças.
 
-Entretanto a figura do moderador não é absoluta, suas atitudes podem ser revistas e levadas a um conselho,  composto por outros moderadores, que poderá rever esta atitude.
+Entretanto a figura do moderador não é absoluta, suas atitudes podem ser revistas e levadas a um conselho, composto por outros moderadores, que poderá rever esta atitude.
 
 ## Recursos externos
 
