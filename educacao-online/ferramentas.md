@@ -28,3 +28,5 @@ O [Adobe Spark](https://spark.adobe.com/pt-BR/edu/) é uma ferramenta que possib
 * Com seus aplicativos Spark Post, Spark Page e Spark Vídeos, permite a criação e edição de vídeos e imagens em qualquer lugar;
 * Está disponível para os sistemas operacionais Windows e Apple, assim como para os dispositivos móveis que usam iOS e Android.
 
+
+
