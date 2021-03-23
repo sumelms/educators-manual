@@ -15,4 +15,9 @@
 ## Produção de conteúdo
 
 * [Planejar é roteirizar](producao-de-conteudo/planejar-e-roteirizar.md)
+* [Áudio](producao-de-conteudo/audio/README.md)
+  * [Tons de voz](producao-de-conteudo/audio/tons-de-voz.md)
+  * [Cuidados com a voz](producao-de-conteudo/audio/cuidados-com-a-voz.md)
+  * [Equipamento](producao-de-conteudo/audio/equipamento.md)
+  * [Captura de voz](producao-de-conteudo/audio/captura-de-voz.md)
 
