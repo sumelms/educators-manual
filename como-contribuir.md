@@ -53,7 +53,7 @@ Todo conteúdo publicado neste manual deve ser compatível com a [licença do me
 * CC BY
 * CC BY-SA
 
-`Torna-se exceção a necessidade de licença compatíveis recursos externos, pois entende-se que estes não fazem parte do manual.`
+`Torna-se exceção a necessidade de licença compatíveis com recursos externos, pois entende-se que estes não fazem parte do manual.`
 
 ## Contribuindo
 
