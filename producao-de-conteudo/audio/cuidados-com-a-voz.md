@@ -7,5 +7,5 @@ Além de observar o contexto de cada aula para escolher qual tom se encaixa melh
 3. Respire corretamente: enquanto estiver falando, mantenha uma postura ereta, porém, relaxada, sobretudo a cabeça. Lembre-se de levar o ar até o abdômen, expandindo as costelas sem elevar os ombros e o peito. Um bom exercício é ler em voz alta de forma devagar e pausadamente;
 4. Cuidado com excessos: evite comportamentos que em excesso podem ser danosos à voz, como consumo de cigarro, álcool, bebidas muito geladas ou muito quentes e ar condicionado. Tente ainda se poupar dos berros em shows de música ou jogos de futebol.
 
-Estas são apenas algumas dicas, mas começando por elas já é possível manter a voz em bom estado para as aulas. O próximo passo é conhecer que equipamentos são necessários para gravar o áudio de uma videoaula.
+Estas são apenas algumas dicas simples, mas que são um começo para manter a voz em bom estado para as aulas. Porém, o recomendado para quem ministra muitas aulas e cursos, como os educadores, é fazer um acompanhamento com um fonoaudiólogo, assim tem-se a garantia de manter toda a estrutura vocal saudável. O próximo passo é conhecer que equipamentos são necessários para gravar o áudio de uma videoaula.
 
