@@ -20,4 +20,9 @@
   * [Cuidados com a voz](producao-de-conteudo/audio/cuidados-com-a-voz.md)
   * [Equipamento](producao-de-conteudo/audio/equipamento.md)
   * [Captura de voz](producao-de-conteudo/audio/captura-de-voz.md)
+* [Vídeo](producao-de-conteudo/video/README.md)
+  * [Educação no vídeo](producao-de-conteudo/video/educacao-no-video.md)
+  * [Equipamento](producao-de-conteudo/video/equipamento.md)
+  * [Câmera e enquadramento](producao-de-conteudo/video/camera-e-enquadramento.md)
+  * [Iluminação](producao-de-conteudo/video/iluminacao.md)
 
