@@ -26,3 +26,7 @@
   * [Câmera e enquadramento](producao-de-conteudo/video/camera-e-enquadramento.md)
   * [Iluminação](producao-de-conteudo/video/iluminacao.md)
 
+---
+
+* [Test](test.md)
+
