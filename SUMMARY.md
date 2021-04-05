@@ -25,4 +25,9 @@
   * [Equipamento](producao-de-conteudo/video/equipamento.md)
   * [Câmera e enquadramento](producao-de-conteudo/video/camera-e-enquadramento.md)
   * [Iluminação](producao-de-conteudo/video/iluminacao.md)
+* [Interações](producao-de-conteudo/interacoes/README.md)
+  * [Educação passiva X educação ativa](producao-de-conteudo/interacoes/educacao-passiva-x-educacao-ativa.md)
+  * [Gamificação](producao-de-conteudo/interacoes/gamificacao.md)
+  * [Formatos de atividades online](producao-de-conteudo/interacoes/formatos-de-atividades-online.md)
+  * [Storytelling](producao-de-conteudo/interacoes/storytelling.md)
 
