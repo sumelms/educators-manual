@@ -57,9 +57,8 @@ Todo conteúdo publicado neste manual deve ser compatível com a [licença do me
 
 ## Contribuindo
 
-### GitHub
+Você também pode contribuír com este Manual. Atualmente, existem duas formas de fazer isto:
 
-### GitBook
-
-### E-mail
+* Solicitando acesso ao nosso GitBook por meio [deste formulário](https://forms.gle/uDwv1j4Wi3x3F9NJ7);
+* Enviando suas contribuíções em formato de PDF ou DOC, ou até mesmo compartilhadas por meio do Google Drive para [edu@sumelms.com](mailto:edu@sumelms.com?subject=edu.sumelms.com)
 
