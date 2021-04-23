@@ -1,6 +1,6 @@
 # Licença de uso
 
-O conteúdo deste manual está licenciado por meio da [Creative Commons Atribuíção 4.0 Internacional \(CC BT 4.0\)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR). A versão abaixo é um resumo para fins de praticidade e não substituí a [licença completa](https://creativecommons.org/licenses/by/4.0/legalcode).
+O conteúdo deste manual está licenciado por meio da [Creative Commons Atribuíção 4.0 Internacional \(CC BY 4.0\)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR). A versão abaixo é um resumo para fins de praticidade e não substituí a [licença completa](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ### Você tem o direito de:
 
