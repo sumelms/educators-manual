@@ -2,7 +2,7 @@
 
 A iniciativa de elaborar este manual é garantir aos educadores e alunos uma compreensão, ampla e detalhada, sobre o que é a Sumé e o Sumé LMS e como eles podem auxiliar no desenvolvimento e na implementação das aulas virtuais. As duas iniciativas surgiram durante a pandemia da Covid-19, motivadas pela visível dificuldade encontrada por educadores em adaptar as aulas presenciais para as aulas virtuais. 
 
-Ao longo do manual, você não vai encontrar soluções para os problemas da educação, pois não temos essa pretensão. O conteúdo que disponibilizamos visa ajudar e auxiliar os educadores a transportar o mesmo ensino da sala de aula física para a sala de aula virtual, tentando, em todos os aspectos, não perder a qualidade necessária à transmissão de conhecimento. 
+Ao longo do manual, você não vai encontrar soluções para os problemas da educação, pois não temos essa pretensão. O conteúdo que disponibilizamos visa ajudar e auxiliar os educadores a remodelar e a adaptar o que é ensinado em sala de aula física para a sala de aula virtual, tentando, em todos os aspectos, não perder a qualidade necessária à construção do conhecimento. 
 
 Justamente por isso, você vai observar que o nosso foco neste material é indicar soluções que ajudem a resolver problemas e superar obstáculos do dia a dia. Não discutiremos os tipos de abordagens pedagógicas, se há uma linha de pensamento mais correta ou não. Nosso objetivo é facilitar a aprendizagem, independentemente dessas questões. Queremos que os educadores possam chegar aos seus alunos e que estes tenham condições de acompanhar as aulas e aprender. 
 
