@@ -1,6 +1,6 @@
-# Como contribuír
+# Como contribuir
 
-Este manual foi desenvolvido de forma colaborativa, e está aberto a novas contribuições. Entretanto, para que seja possível manter a qualidade das publicações que aqui se encontram, criamos este breve guia inspirado nas diretrizes já bem fundamentadas e estabelecidas pela [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia).
+Este manual foi desenvolvido de forma colaborativa, e está aberto a novas contribuições. Entretanto, para que seja possível manter a qualidade das publicações que aqui se encontram, criamos este breve guia inspirado nas diretrizes já bem fundamentadas e estabelecidas pela [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing\_to\_Wikipedia).
 
 ## Protocolos e convenções
 
@@ -33,9 +33,9 @@ Entretanto a figura do moderador não é absoluta, suas atitudes podem ser revis
 
 O uso de recursos externos, como imagens, vídeos e áudio não é proibido, entretanto desaconselhado. Recomenda-se o uso de recursos externos apenas para as seguintes situações:
 
-* Vídeos \(YouTube\)
-* Áudio \(SoundCloud\)
-* Documentos \(Google Drive, OneDrive\)
+* Vídeos (YouTube)
+* Áudio (SoundCloud)
+* Documentos (Google Drive, OneDrive)
 
 Em caso de imagens, é preferível que estas sejam sempre hospedadas dentro do próprio espaço deste manual.
 
@@ -43,7 +43,7 @@ Em caso de imagens, é preferível que estas sejam sempre hospedadas dentro do p
 
 Para referenciar autores ou obras, utiliza-se a seguinte notação:
 
-> _"A leitura do mundo precede a leitura da palavra, daí que a posterior leitura desta não possa prescindir da continuidade da leitura daquele."_  \(FREIRE, P. _A importância do ato de ler_. 23 ed. São Paulo: Autores Associados: Cortez, 1989. p. 11.\)
+> _"A leitura do mundo precede a leitura da palavra, daí que a posterior leitura desta não possa prescindir da continuidade da leitura daquele."_  (FREIRE, P. _A importância do ato de ler_. 23 ed. São Paulo: Autores Associados: Cortez, 1989. p. 11.)
 
 ## Licenças compatíveis
 
@@ -57,8 +57,7 @@ Todo conteúdo publicado neste manual deve ser compatível com a [licença do me
 
 ## Contribuindo
 
-Você também pode contribuír com este Manual. Atualmente, existem duas formas de fazer isto:
+Você também pode contribuir com este Manual. Atualmente, existem duas formas de fazer isto:
 
 * Solicitando acesso ao nosso GitBook por meio [deste formulário](https://forms.gle/uDwv1j4Wi3x3F9NJ7);
 * Enviando suas contribuíções em formato de PDF ou DOC, ou até mesmo compartilhadas por meio do Google Drive para [edu@sumelms.com](mailto:edu@sumelms.com?subject=edu.sumelms.com)
-

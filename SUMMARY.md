@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introdução](README.md)
-* [Como contribuír](como-contribuir.md)
+* [Como contribuir](como-contribuir.md)
 * [Licença de uso](licenca.md)
 
 ## Educação online
@@ -30,4 +30,3 @@
   * [Gamificação](producao-de-conteudo/interacoes/gamificacao.md)
   * [Formatos de atividades online](producao-de-conteudo/interacoes/formatos-de-atividades-online.md)
   * [Storytelling](producao-de-conteudo/interacoes/storytelling.md)
-
